@@ -53,4 +53,4 @@ Wait a few seconds until the Navigation 2 panel in RViz shows Navigation and Loc
 
 ## Demo
 
-See `demo/` (or the link in the submission form).
+Screen recording (about 1m45s, Gazebo and RViz side by side): [demo/nav2_demo.webm](demo/nav2_demo.webm). Download it to play.
